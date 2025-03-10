@@ -56,7 +56,7 @@ Install my-project with npm
 
 ```bash
     git clone https://github.com/korneevscp/osint-IP-by-korneevscp.git
-    cd pythosint-IP-by-korneevscp
+    cd osint-IP-by-korneevscp
     python3 --version
     pip install rich
     pip install requests
