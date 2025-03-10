@@ -2,6 +2,14 @@
 # OSINT TOOLS IP (IN DEV)
 
 # English:
+
+Disclaimer:
+
+I would like to clarify that this script is made available for educational purposes only. It was designed for the purpose of learning and developing technical skills. I am in no way responsible for the use that may be made of it. By using this script, you agree that I am not responsible for the consequences of its use, whether in a legal or illegal framework.
+
+Warning: Any malicious, illegal or contrary use to the terms of use of the services for which this script is used is your own responsibility. Please ensure that you comply with the laws in force and use this script responsibly and ethically.
+
+
 This program is a network scanning and vulnerability testing tool. It helps assess the security of a server by performing various network and service-related tests. Here's a breakdown of the key features:
 
 Port Scanning:
@@ -21,7 +29,17 @@ WhatWeb Scan:
 It runs WhatWeb, a tool that detects the technologies and operating systems used by the server based on HTTP headers and other web-based information.
 In short, this tool is designed to help security professionals or administrators assess the vulnerability and security posture of a server or service by performing various network and web-based scans.
 
+
+
+
 # Français :
+
+Avertissement de responsabilité :
+
+Je tiens à préciser que ce script est mis à disposition uniquement à des fins éducatives. Il a été conçu dans un but d’apprentissage et de développement de compétences techniques. Je ne suis en aucun cas responsable de l’utilisation qui peut en être faite. En utilisant ce script, vous acceptez que je ne sois pas responsable des conséquences de son usage, que ce soit dans un cadre légal ou non.
+
+Attention : Toute utilisation malveillante, illégale ou contraire aux conditions d'utilisation des services pour lesquels ce script est utilisé relève de votre propre responsabilité. Veuillez vous assurer de respecter les lois en vigueur et d'utiliser ce script de manière responsable et éthique.
+
 Ce programme est un outil de scan réseau et de test de vulnérabilités. Il permet d'évaluer la sécurité d'un serveur en réalisant différents tests liés au réseau et aux services. Voici une description des fonctionnalités principales :
 
 Scan des Ports :
