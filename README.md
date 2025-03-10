@@ -72,7 +72,7 @@ Install my-project with npm
 
 ![Logo2](https://i.pinimg.com/1200x/43/77/92/43779265578dba0a9823eb6256424c1e.jpg)
 
-![Logo3](https://i.pinimg.com/1200x/96/cd/14/96cd140d5385984fd9f1b10974e703db.jpg)
+![Logo4](https://i.pinimg.com/1200x/96/cd/14/96cd140d5385984fd9f1b10974e703db.jpg)
 
 
 
